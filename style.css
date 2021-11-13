@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+title {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+heading {
+    color: darkgray;
+    font-size: 14pt;
+}
+
+p {
+    font-size: 12pt;
+}
