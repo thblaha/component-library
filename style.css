@@ -10,7 +10,47 @@ heading {
     color: darkgray;
     font-size: 14pt;
 }
+.profile {
+    border-radius: 50%;
+
+}
 
 p {
     font-size: 12pt;
+}
+.foo{
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+.blue {
+    background-color: lightcyan;
+}
+.red {
+    background-color: tomato;
+  
+}
+
+button {
+    background-color: #FF6347;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 2px;
+}
+
+:hover button {
+    color: black;
+}
+
+:active button {
+    background-color: #333;
+    border-color: #333;
+    color: #eee;
 }
